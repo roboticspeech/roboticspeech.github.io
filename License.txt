@@ -1,16 +1,21 @@
-Thanks For Downloading Our Template.
+MIT License
 
-Checkout Our more templates From http://www.themefisher.com 
+Copyright (c) 2018 roboticspeech
 
-License:-
-You are allowed to use all files for both personal and commercial projects. You are allowed to use the resources from this site for any personal or commercial projects. 
-You may modify the resources according to your requirements and include them into works, such as websites, prints, apps or any other projects.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-If you use/modify the resources in your projects, we’d appreciate a linkback to this site.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You do not have rights to redistribute, resell or offer files from this site to any third party.
-
-If you wish to promote any resources from this site,you must link back to the resource page of that file where users can find download button but not directly to the download file.
-
-If you have any question,feel free to contact us (themefisher@gmail.com) .
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
