@@ -603,6 +603,7 @@ h1.navbar-brand {
     color: #fff;
     margin: 0 0 35px;
     text-transform: uppercase;
+
 }
 
 #about .welcome-block h3 {
@@ -617,7 +618,8 @@ h1.navbar-brand {
 }
 
 #about .message-body {
-    font-size: 13px;
+
+    font-weight: bold;
     line-height: 20px;
     margin-bottom: 70px;
 }
