@@ -97,7 +97,7 @@ $(document).ready(function(){
 	 itemsDesktopSmall : [979,3],
 
 	 navigation: true,
-	 navigationText: ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"]
+	 navigationText: ["<i class='carousel-control fa fa-angle-left'></i>","<i class='right carousel-control fa fa-angle-right'></i>"]
 
  });
 
@@ -270,7 +270,23 @@ function init() {
         position: new google.maps.LatLng(38.387994, 27.044609),
         map: map,
 		icon: 'img/icons/map-marker.png',
+
+		label: {
+      text: "İzmir Ekonomi Üniversitesi",
+      color: "#4682B4",
+      fontSize: "20px",
+      fontWeight: "bold",
+			padding: "20px",
+
+    },
     });
+		var iw = new google.maps.InfoWindow({
+			 content: "<a href='http://www.ieu.edu.tr/tr' class='fa fa-link'></a> <a href='http://www.ieu.edu.tr/tr'> http://www.ieu.edu.tr/tr</a>"
+		 });
+		 google.maps.event.addListener(marker, "click", function(e) {
+			 iw.open(map, this);
+			 window.href = "http://www.ieu.edu.tr/tr";
+		 });
 }
 
 // ========== END GOOGLE MAP ========== //
